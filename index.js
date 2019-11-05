@@ -6,7 +6,7 @@ function newFlag() {
   answer = randFlag[0];
   document.getElementById("flag").src= randFlag[1];
   document.getElementById("answer").innerHTML = "Reveal Answer";
-  console.log(JSON.parse(JSON.stringify(randFlag)));
+  //console.log(JSON.parse(JSON.stringify(randFlag)));
 }
 function getAnswer() {
   document.getElementById("answer").innerHTML = answer;
