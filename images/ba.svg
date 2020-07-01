@@ -1,11 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 8">
-<rect width="16" height="8" fill="#002395"/>
-<path d="m4.24,0h8v8z" fill="#fecb00"/>
-<g id="g">
-<path d="M2.353283,0.5248529 2.8,-0.85 3.246717,0.524853 2.077197,-0.324853H3.522803z" fill="#fff" id="s"/>
-<use xlink:href="#s" x="1" y="1"/>
-<use xlink:href="#s" x="2" y="2"/>
-</g>
-<use xlink:href="#g" x="3" y="3"/>
-<use xlink:href="#g" x="6" y="6"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Countryflags.com" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="94.5 596.5 300 150"
+	 enable-background="new 94.5 596.5 300 150" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="150" width="300" bottomLeftOrigin="true" y="-150" x="0"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<g>
+			<rect id="_x31_1" x="94.5" y="596.5" fill="#002395" width="300" height="150"/>
+			<path id="_x31_0" fill="#FECB00" d="M174,596.5h150v150L174,596.5z"/>
+			<polygon id="_x39_" fill="#FFFFFF" points="155.376,606.341 147,600.255 138.624,606.341 141.831,596.5 152.169,596.5 			"/>
+			<polygon id="_x38_" fill="#FFFFFF" points="179.303,609.159 170.927,615.245 174.126,625.091 165.75,619.006 157.374,625.091 
+				160.574,615.245 152.198,609.159 162.551,609.159 165.75,599.313 168.95,609.159 			"/>
+			<polygon id="_x37_" fill="#FFFFFF" points="198.053,627.909 189.677,633.995 192.876,643.841 184.5,637.756 176.124,643.841 
+				179.324,633.995 170.948,627.909 181.301,627.909 184.5,618.063 187.7,627.909 			"/>
+			<polygon id="_x36_" fill="#FFFFFF" points="216.803,646.668 208.427,652.754 211.626,662.601 203.25,656.515 194.874,662.601 
+				198.074,652.754 189.698,646.668 200.051,646.668 203.25,636.822 206.45,646.668 			"/>
+			<polygon id="_x35_" fill="#FFFFFF" points="235.555,665.416 227.179,671.502 230.379,681.348 222.003,675.263 213.627,681.348 
+				216.826,671.502 208.45,665.416 218.803,665.416 222.003,655.57 225.202,665.416 			"/>
+			<polygon id="_x34_" fill="#FFFFFF" points="254.299,684.167 245.923,690.253 249.123,700.099 240.747,694.013 232.371,700.099 
+				235.57,690.253 227.194,684.167 237.547,684.167 240.747,674.32 243.946,684.167 			"/>
+			<polygon id="_x33_" fill="#FFFFFF" points="273.057,702.923 264.682,709.008 267.881,718.855 259.505,712.769 251.129,718.855 
+				254.328,709.008 245.952,702.923 256.306,702.923 259.505,693.076 262.704,702.923 			"/>
+			<polygon id="_x32_" fill="#FFFFFF" points="291.806,721.664 283.43,727.75 286.63,737.596 278.254,731.511 269.878,737.596 
+				273.077,727.75 264.701,721.664 275.055,721.664 278.254,711.818 281.453,721.664 			"/>
+			<polygon id="_x31_" fill="#FFFFFF" points="310.553,740.409 300.2,740.409 297,730.563 293.801,740.409 283.448,740.409 
+				291.824,746.495 302.177,746.495 			"/>
+		</g>
+	</g>
+</switch>
 </svg>
